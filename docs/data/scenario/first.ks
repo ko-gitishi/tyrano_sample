@@ -13,9 +13,13 @@
 
 どこだここは。[l][r]
 
+[bg storage=ajito.jpg time=500]
+
 壁はコンクリートで、天井には古びた照明がかすかに光っている。ドアの前に立ってみるが、鍵がかかっていて開かない。[l][r]
 
-[l][r]
+部屋を見回すと、机に散らばった何枚かの紙が目に付く。[l][r]
+
+ここから出るには鍵を探せ。[l][r]
 
 [link target=*tag_sleep] →寝る [endlink][r]
 [link target=*tag_run] →走る [endlink][r]
